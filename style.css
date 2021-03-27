@@ -1,0 +1,110 @@
+body {
+  background: #DC1212 ;
+}
+
+.first {
+  text-align: center;
+  background-color: black;
+  color: #FFFFFF;
+  border-radius: 80px;
+   }
+  .banner {
+  background-image: url(https://www.journaldugeek.com/content/uploads/2020/04/cinema.jpg);
+  height: 30vh;
+  transition: 1s
+  background-position: top;
+  background-size: cover;
+  margin-top: 0px;
+  border-radius: 20px
+}
+h1 {
+  font-size: 75px;
+  margin-left: 25px;
+}
+h4 {
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.button {
+  background-image: url(https://www.journaldugeek.com/content/uploads/2020/04/cinema.jpg);
+  height: 15vh;
+  transition: 1s
+  background-position: top;
+  background-size: cover;
+  margin-top: 0px;
+  border-radius: 0px
+}
+
+.button {
+  background-image: url(https://htmlcolorcodes.com/fr/);
+  height: 15vh;
+  transition: 1s
+  background-position: top;
+  background-size: cover;
+  margin-top: 0px;
+  border-radius: 0px
+}
+
+.button {
+  background-image: url(https://www.journaldugeek.com/content/uploads/2020/04/cinema.jpg);
+  height: 15vh;
+  transition: 1s
+  background-position: top;
+  background-size: cover;
+  margin-top: 0px;
+  border-radius: 0px
+}
+
+.button {
+  background-image: url(https://www.journaldugeek.com/content/uploads/2020/04/cinema.jpg);
+  height: 15vh;
+  transition: 1s
+  background-position: top;
+  background-size: cover;
+  margin-top: 0px;
+  border-radius: 0px
+}
+
+.button {
+  background-image: url(https://www.journaldugeek.com/content/uploads/2020/04/cinema.jpg);
+  height: 15vh;
+  transition: 1s
+  background-position: top;
+  background-size: cover;
+  margin-top: 0px;
+  border-radius: 0px
+}
+
+.button {
+  display: grid;
+  text-decoration-color: #DD0C0C;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 2px;
+  transition: 1s;
+  background-color: black;
+  color: #DD0C0C;
+  border: 2px solid #colo;
+  border-radius: 0px;
+}
+
+.police {
+  color: black;
+  margin: 70px;
+  font-family: 'Caladea', sans-serif;
+}
+
+.details {
+
+  width: 70vw;
+  background-color: white;
+  border-radius: 7px;
+  text-align: center;
+  margin: 0 auto;
+}
+.details img {
+  width: 200px;
+  border-radius: 500px;
+}
+
+
